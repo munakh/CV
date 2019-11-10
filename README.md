@@ -1,55 +1,123 @@
-## Your Name
+## Muna Khan
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+Projects | Skills | Education | Experience | Hobbies & Interests | LinkedIn | Blog
 
-## Skills
+After graduating from the University of St Andrews, and later the University of Central Lancashire, I spent over two years working as a researcher in a counter-extremism think tank. Though the work I was doing was very close to my heart, I was routinely frustrated with the abstract nature of our work, wondering often whether there was any way to measure the impact or success of our efforts. This concern eventually led to me delving into the world of coding and programming, which has now given me the essential foundation and grounding with which to translate my experience into practical goals and tangible productions. 
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+Born in Abu Dhabi to an Indian father and a Pakistani mother and moving to the UK in my teens, my young adulthood has always been infused with an uncomfortable union of race, religion, and identity, perhaps giving me a better understanding and a more empathetic lens with which to view the melting pot of culture that is the hallmark of the 21st century world.
 
-#### This Skill
 
-- Experience
-- Achievements
-- Evidence
 
-#### Another Skill
+#### Projects
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+------
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+| Project | Description | Technologies |
+| ------- | ----------- | ------------ |
+|         |             |              |
+|         |             |              |
+|         |             |              |
 
-## Education
 
-#### Makers Academy (start_date to end_date)
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Skills
 
-#### Your University / College (start_date to end_date)
+------
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+**Technical**
 
-#### Any other qualifications
+- Ruby
+- Javascript
+- Sinatra
+- Capybara
+- RSpec
+- PostgreSQL
+- SQL
+- HTML
+- CSS
+- TDD
 
-That in some arguable way make you a better software developer or well-rounded person
+**Interpersonal**
 
-## Experience
+- Thrive both in dynamic teams and on solo projects
+- Highly adaptable to varying working environments
+- Excellent communication skills - experienced in adapting communications strategy based on target audiences
+- Exceptionally fast learner and
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
+**Languages**
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
-- Any experience relevent to software development
+- English (Native proficiency)
+- Urdu (Native proficiency)
+- French (High proficiency)
+- Persian (High proficiency)
+- Hindi (Spoken proficiency)
+- Arabic (Limited proficiency)
 
-## Hobbies
+#### Education
 
-Any cool stuff that makes you a super part of a software development team
+------
+
+**Makers Academy**
+
+*January 2020*
+
+A 16-week intensive development bootcamp with a focus on:
+
+- Object-oriented programming
+- Test-driven development
+- Pair programming
+- Both team-built and individual projects
+
+**University of Central Lancashire**
+
+*September 2016*
+
+Masters in  Journalism with Merit, with special focus on Creating Content, Digital  Journalism, Media Law, Public Affairs; involving the creation of three  publications, a business-to-business magazine, a consumer magazine; and a  newspaper supplement titled “Muslim Identity in a post-ISIS World.”  
+
+**University of St Andrews**
+
+*June 2014*
+
+Philosophy Major, also studied Arabic, French, Persian and Middle Eastern History. In order to experience a range of disciplines and due to my varied interests, I opted to do a General degree rather than limit myself to one subject, later focusing my intent with my postgraduate studies.  
+
+
+
+#### Experience
+
+------
+
+**Researcher at Quilliam International**
+
+*January 2017 - November 2019*
+
+After  volunteering at Quilliam during the summer of 2016, I was later requested to  join the team as a researcher in January 2017. Since then, I have authored  three major reports:
+
+- December 2017: Group-Based Child Sexual Exploitation: Dissecting ‘Grooming Gangs’: This report provided a serious, research-based report on the nature of these crimes. Less than six months after the release of this paper, the UK government and then Home Secretary Sajid Javid officially commissioned further research around this previously-ignored subject.
+- April 2018: The Rise of Religious  Nationalism, Intolerance and Persecution in Burma: This report highlighted the dire situation of the ethnic cleansing of the Rohingya Muslims population in Burma. It was  launched in Parliament alongside a panel of experts on the subject, and was  received with high praise from field experts.
+- May 2018: FGM Legislation in Britain: “A National Scandal”: This report, which aimed to act as a catalyst for proactive action on implementing FGM laws in Britain, concluded with a number of practical recommendations that could aid in fast-tracking FGM prosecutions. MP Sarah Champion hosted our launch event at the House of Commons. Since the release of this report, Britain has seen its first FGM conviction.
+
+My other  work includes:
+
+- 2017-19: Project manager for a  social media campaign, titled “AMATE: American Muslims Against Terrorism  & Extremism”, run in partnership with the Department of Homeland Security.
+- 2019: Co-author of a research  essay titled ‘Mainstreaming Islamism’, commissioned by the UK government's Commission for  Countering Extremism.
+- Contributions to several international news agencies such as  The Wall Street Journal, The Times, Newsweek, The Telegraph, The Independent  and The Huffington Post, and abroad, such as Pakistan’s Express Tribune and  the South Asian Voices journal based in Washington D.C.
+- Research assistant for the  following reports: ‘Tackling Terror: A Response to Takfiri Terrorist  Theology’, ‘Punishment, Penalty, and Practice: Interpreting the Islamic Penal  Code’, ‘In and Out of Extremism: A case study on the deradicalization process of the youngest individual to be indicted on terror charges in the United  States’.
+- Presented in multiple  conferences and conventions on the framework of extremism, including at the  Department of Defense’s NESA Conference in Morocco (2018).
+
+#### Hobbies & Interests
+
+------
+
+
+
+#### Online Presence
+
+------
+
+LinkedIn
+
+Blog
+
+
+
+***References available on request
