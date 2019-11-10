@@ -2,13 +2,13 @@
 
 Projects | Skills | Education | Experience | Hobbies & Interests | LinkedIn | Blog
 
-After graduating from the University of St Andrews, and later the University of Central Lancashire, I spent over two years working as a researcher in a counter-extremism think tank. Though the work I was doing was very close to my heart, I was routinely frustrated with the abstract nature of our work, wondering often whether there was any way to measure the impact or success of our efforts. This concern eventually led to me delving into the world of coding and programming, which has now given me the essential foundation and grounding with which to translate my experience into practical goals and tangible productions. 
+> After graduating from the University of St Andrews, and later the University of Central Lancashire, I spent over two years working as a researcher in a counter-extremism think tank. Though the work I was doing was very close to my heart, I was routinely frustrated with the abstract nature of our work, wondering often whether there was any way to measure the impact or success of our efforts. This concern eventually led to me delving into the world of coding and programming, which has now given me the essential foundation and grounding with which to translate my experience into practical goals and tangible productions. 
+>
+> Born in Abu Dhabi to an Indian father and a Pakistani mother and moving to the UK in my teens, my young adulthood has always been infused with an uncomfortable union of race, religion, and identity, perhaps giving me a better understanding and a more empathetic lens with which to view the melting pot of culture that is the hallmark of the 21st century world.
 
-Born in Abu Dhabi to an Indian father and a Pakistani mother and moving to the UK in my teens, my young adulthood has always been infused with an uncomfortable union of race, religion, and identity, perhaps giving me a better understanding and a more empathetic lens with which to view the melting pot of culture that is the hallmark of the 21st century world.
 
 
-
-#### Projects
+### Projects
 
 ------
 
@@ -20,7 +20,7 @@ Born in Abu Dhabi to an Indian father and a Pakistani mother and moving to the U
 
 
 
-#### Skills
+### Skills
 
 ------
 
@@ -53,7 +53,7 @@ Born in Abu Dhabi to an Indian father and a Pakistani mother and moving to the U
 - Hindi (Spoken proficiency)
 - Arabic (Limited proficiency)
 
-#### Education
+### Education
 
 ------
 
@@ -82,7 +82,7 @@ Philosophy Major, also studied Arabic, French, Persian and Middle Eastern Histor
 
 
 
-#### Experience
+### Experience
 
 ------
 
@@ -104,13 +104,13 @@ My other  work includes:
 - Research assistant for the  following reports: ‘Tackling Terror: A Response to Takfiri Terrorist  Theology’, ‘Punishment, Penalty, and Practice: Interpreting the Islamic Penal  Code’, ‘In and Out of Extremism: A case study on the deradicalization process of the youngest individual to be indicted on terror charges in the United  States’.
 - Presented in multiple  conferences and conventions on the framework of extremism, including at the  Department of Defense’s NESA Conference in Morocco (2018).
 
-#### Hobbies & Interests
+### Hobbies & Interests
 
 ------
 
 
 
-#### Online Presence
+### Online Presence
 
 ------
 
