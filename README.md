@@ -29,6 +29,7 @@ Projects | Skills | Education | Experience | Hobbies & Interests | LinkedIn | Bl
 - Ruby
 - Javascript
 - Jasmine
+- jQuery
 - Sinatra
 - Capybara
 - RSpec
