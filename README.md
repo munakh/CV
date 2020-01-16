@@ -31,7 +31,6 @@
 | Ruby on Rails | Capybara | Bootstrap | SQL |
 | JavaScript | Jasmine | CSS | jQuery |
 | Python | Unittest | React | Raspberry Pi |
-| Node.js | Jest | | Sinatra |
 
 **Interpersonal**
 
