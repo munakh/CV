@@ -1,3 +1,5 @@
+![alt text](https://github.com/munakh/CV/blob/master/Screenshot%202020-01-16%20at%2013.45.38.png)
+
 <h1 align="center"> Muna Khan </h1>
 
 <p align="center"> <a href="#Projects">Projects</a> | <a href="#Skills">Skills</a> | <a href="#Education">Education</a> | <a href="#Experience">Experience</a>| <a href="#Contact">Contact</a> </p>
