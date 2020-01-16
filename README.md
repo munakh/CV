@@ -1,9 +1,9 @@
-![alt text](https://github.com/munakh/CV/blob/master/Screenshot%202020-01-16%20at%2013.45.38.png)
-
 <h1 align="center"> Muna Khan </h1>
 
 <p align="center"> <a href="#Projects">Projects</a> | <a href="#Skills">Skills</a> | <a href="#Education">Education</a> | <a href="#Experience">Experience</a>| <a href="#Contact">Contact</a> </p>
 
+> I am an enthusiastic and ambitious Full Stack Junior Developer, looking for a role where I can improve on my current skill set as well as delve into newer technologies, while also gaining exposure to product management and marketing strategy.
+>
 > After graduating from the University of St Andrews, and later the University of Central Lancashire, I spent over two years working as a researcher in a counter-extremism think tank. Though the work I was doing was very close to my heart, I was routinely frustrated with the abstract nature of our work, wondering often whether there was any way to measure the impact or success of our efforts. This concern eventually led to me delving into the world of coding and programming, which has now given me the essential foundation and grounding with which to translate my experience into practical goals and tangible productions. 
 >
 > During my time at Makers, a 16-week intensive coding bootcamp, I've been introduced to several languages, libraries, and frameworks. In particular, we have focused on Ruby, but also dabbled in JavaScript. During this time, I've also self-taught myself some Python and Node.js. But perhaps the most valuable thing I've taken away from my time at Makers is the skill to cultivate a healthy growth mindset, which in turn has taught me to self-teach and self-drive my progress.
@@ -108,6 +108,5 @@ My other  work includes:
 ------
 
 > [LinkedIn](https://uk.linkedin.com/in/munaadil)
-
-
+>
 > Email: mzam66@gmail.com
