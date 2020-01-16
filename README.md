@@ -1,10 +1,10 @@
 ## Muna Khan
 
-Projects | Skills | Education | Experience | Hobbies & Interests | LinkedIn | Blog
+[Projects](#Projects) | Skills | Education | Experience | Hobbies & Interests | LinkedIn | Blog
 
 > After graduating from the University of St Andrews, and later the University of Central Lancashire, I spent over two years working as a researcher in a counter-extremism think tank. Though the work I was doing was very close to my heart, I was routinely frustrated with the abstract nature of our work, wondering often whether there was any way to measure the impact or success of our efforts. This concern eventually led to me delving into the world of coding and programming, which has now given me the essential foundation and grounding with which to translate my experience into practical goals and tangible productions. 
 >
-> During my time at Makers, I've quickly taken to 
+> During my time at Makers, I've been introduced to several languages, libraries, and frameworks. In particular, we have focused on Ruby
 
 
 
