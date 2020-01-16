@@ -4,7 +4,7 @@ Projects | Skills | Education | Experience | Hobbies & Interests | LinkedIn | Bl
 
 > After graduating from the University of St Andrews, and later the University of Central Lancashire, I spent over two years working as a researcher in a counter-extremism think tank. Though the work I was doing was very close to my heart, I was routinely frustrated with the abstract nature of our work, wondering often whether there was any way to measure the impact or success of our efforts. This concern eventually led to me delving into the world of coding and programming, which has now given me the essential foundation and grounding with which to translate my experience into practical goals and tangible productions. 
 >
-> During my 
+> During my time at Makers, I've quickly taken to 
 
 
 
@@ -16,7 +16,7 @@ Projects | Skills | Education | Experience | Hobbies & Interests | LinkedIn | Bl
 | ------- | ----------- | ------------ |
 | Acebook | Facebook-inspired app created over 2 weeks | Rails, CSS |
 | Instagram | A simple Instagram clone constructed solo over one weekend | Rails, CSS |
-| Bank Tech Test | Basic code for bank account app completed in a few hours | JavaScript |
+| Bank Tech Test | Basic code for bank account app completed in a few hours | JavaScript, Jasmine |
 | RPi Security Sensor | Security camera that sends image to a website and notification to user's phone when motion is detected | Python, Raspberry Pi, Rails |
 
 
