@@ -14,8 +14,8 @@ Projects | Skills | Education | Experience | Hobbies & Interests | LinkedIn | Bl
 
 | Project | Description | Technologies |
 | ------- | ----------- | ------------ |
-| Acebook | Facebook-inspired app created over 2 weeks | Rails, CSS |
-| Instagram | A simple Instagram clone constructed solo over one weekend | Rails, CSS |
+| Acebook | [Facebook-inspired app]() created over 2 weeks | Rails, CSS |
+| Petgram | A simple [Instagram clone](https://github.com/munakh/instagram-challenge) constructed solo over one weekend | Rails, CSS |
 | Bank Tech Test | Basic code for bank account app completed in a few hours | JavaScript, Jasmine |
 | RPi Security Sensor | Security camera that sends image to a website and notification to user's phone when motion is detected | Python, Raspberry Pi, Rails |
 
