@@ -34,15 +34,23 @@
 **Interpersonal**
 
 *Analytical thinker*
+
+
 Having done Philosophy both as an A Level, and later at St Andrews, I am a keen analytical and critical thinker. I love delving into logic puzzles and analysing an issue from all sides to crack the solutiom and solving multi-layer problems, which is exactly why coding excites me.
 
 *Excellent communication skills*
+
+
 I have extensive past experience in research and media, and am therefore skilled at adapting communications strategies based on target audiences. I have also taken part in several emotional intelligence workshops, which have helped me to develop more effective and productive communication skills.
 
 *Exceptionally fast learner*
+
+
 I am very good at taking on new projects, whether that be building a program or learning a whole new language. I am very methodical with planning which helps ensure that I almost always achieve my goals in the set amount of time. I am always eager to learn new skills and continue to grow my knowledge.
 
 *Thrive both in agile dynamic teams and on solo projects*
+
+
 I am highly adaptable to varying work environments, having worked effectively with varying team dynamics and work environments.
 
 ### Education
