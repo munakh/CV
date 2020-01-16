@@ -14,10 +14,10 @@
 
 | Project | Description | Technologies |
 | ------- | ----------- | ------------ |
-| AceBook | [Facebook-inspired app](https://github.com/munakh/AceBook) created over 2 weeks | Rails, RSpec/Capybara, CSS |
-| PetGram | A simple [Instagram clone](https://github.com/munakh/PetGram) constructed solo over one weekend | Rails, CSS |
-| Bank Tech Test | Basic code for bank account app completed in a few hours | JavaScript, Jasmine |
-| RPi Security Sensor | Security camera that sends image to a website and notification to user's phone when motion is detected | Python, Raspberry Pi, Rails |
+| [AceBook](https://github.com/munakh/AceBook) | Facebook-inspired app created over 2 weeks | Rails, RSpec/Capybara, CSS |
+| [PetGram](https://github.com/munakh/PetGram)  | A simple Instagram clone constructed solo over one weekend | Rails, CSS |
+| [Bank Tech Test] | Basic code for bank account app completed in a few hours | JavaScript, Jasmine |
+| [RPi Security Sensor] | Security camera that sends image to a website and notification to user's phone when motion is detected | Python, Raspberry Pi, Rails |
 
 ### Skills
 
