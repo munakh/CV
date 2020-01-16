@@ -38,7 +38,7 @@
 *Analytical thinker*
 
 
-Having done Philosophy both as an A Level, and later at St Andrews, I am a keen analytical and critical thinker. I love delving into logic puzzles and analysing an issue from all sides to crack the solutiom and solving multi-layer problems, which is exactly why coding excites me.
+Having done Philosophy both as an A Level, and later at St Andrews, I am a keen analytical and critical thinker. I love delving into logic puzzles and analysing an issue from all sides to crack the solution and solving multi-layer problems, which is exactly why coding excites me.
 
 *Excellent communication skills*
 
