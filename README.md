@@ -4,7 +4,7 @@ Projects | Skills | Education | Experience | Hobbies & Interests | LinkedIn | Bl
 
 > After graduating from the University of St Andrews, and later the University of Central Lancashire, I spent over two years working as a researcher in a counter-extremism think tank. Though the work I was doing was very close to my heart, I was routinely frustrated with the abstract nature of our work, wondering often whether there was any way to measure the impact or success of our efforts. This concern eventually led to me delving into the world of coding and programming, which has now given me the essential foundation and grounding with which to translate my experience into practical goals and tangible productions. 
 >
-> Born in Abu Dhabi to an Indian father and a Pakistani mother and moving to the UK in my teens, my young adulthood has always been infused with an uncomfortable union of race, religion, and identity, perhaps giving me a better understanding and a more empathetic lens with which to view the melting pot of culture that is the hallmark of the 21st century world.
+> During my 
 
 
 
@@ -14,9 +14,10 @@ Projects | Skills | Education | Experience | Hobbies & Interests | LinkedIn | Bl
 
 | Project | Description | Technologies |
 | ------- | ----------- | ------------ |
-|         |             |              |
-|         |             |              |
-|         |             |              |
+| Acebook | Facebook-inspired app created over 2 weeks | Rails, CSS |
+| Instagram | A simple Instagram clone constructed solo over one weekend | Rails, CSS |
+| Bank Tech Test | Basic code for bank account app completed in a few hours | JavaScript |
+| RPi Security Sensor | Security camera that sends image to a website and notification to user's phone when motion is detected | Python, Raspberry Pi, Rails |
 
 
 
@@ -26,25 +27,20 @@ Projects | Skills | Education | Experience | Hobbies & Interests | LinkedIn | Bl
 
 **Technical**
 
-- Ruby
-- Javascript
-- Jasmine
-- jQuery
-- Sinatra
-- Capybara
-- RSpec
-- PostgreSQL
-- SQL
-- HTML
-- CSS
-- TDD
+| Languages | Testing Frameworks | Styling | Other |
+| --------- | ------------------ | ------- | ----- |
+| Ruby | RSpec | HTML | PostgreSQL |
+| Ruby on Rails | Capybara | Bootstrap | SQL |
+| JavaScript | Jasmine | CSS | jQuery |
+| Python | Unittest | React | Raspberry Pi |
+| Node.js | Jest | | Sinatra |
 
 **Interpersonal**
 
-- Thrive both in dynamic teams and on solo projects
-- Highly adaptable to varying working environments
+- Thrive both in agile dynamic teams and on solo projects
+- Highly adaptable to varying working environments, 
 - Excellent communication skills - experienced in adapting communications strategy based on target audiences
-- Exceptionally fast learner and
+- Exceptionally fast learner a
 
 **Languages**
 
@@ -68,7 +64,7 @@ A 16-week intensive development bootcamp with a focus on:
 - Object-oriented programming
 - Test-driven development
 - Pair programming
-- Both team-built and individual projects
+- Both team-centric and individual project development
 
 **University of Central Lancashire**
 
