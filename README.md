@@ -12,7 +12,7 @@
 
 | Project | Description | Technologies |
 | ------- | ----------- | ------------ |
-| AceBook | [Facebook-inspired app](https://github.com/munakh/AceBook) created over 2 weeks | Rails, CSS |
+| AceBook | [Facebook-inspired app](https://github.com/munakh/AceBook) created over 2 weeks | Rails, RSpec/Capybara, CSS |
 | PetGram | A simple [Instagram clone](https://github.com/munakh/PetGram) constructed solo over one weekend | Rails, CSS |
 | Bank Tech Test | Basic code for bank account app completed in a few hours | JavaScript, Jasmine |
 | RPi Security Sensor | Security camera that sends image to a website and notification to user's phone when motion is detected | Python, Raspberry Pi, Rails |
@@ -33,19 +33,17 @@
 
 **Interpersonal**
 
-- Thrive both in agile dynamic teams and on solo projects
-- Highly adaptable to varying working environments, 
-- Excellent communication skills - experienced in adapting communications strategy based on target audiences
-- Exceptionally fast learner a
+*Analytical thinker*
+Having done Philosophy both as an A Level, and later at St Andrews, I am a keen analytical and critical thinker. I love delving into logic puzzles and analysing an issue from all sides to crack the solutiom and solving multi-layer problems, which is exactly why coding excites me.
 
-**Languages**
+*Excellent communication skills*
+I have extensive past experience in research and media, and am therefore skilled at adapting communications strategies based on target audiences. I have also taken part in several emotional intelligence workshops, which have helped me to develop more effective and productive communication skills.
 
-- English (Native proficiency)
-- Urdu (Native proficiency)
-- French (High proficiency)
-- Persian (High proficiency)
-- Hindi (Spoken proficiency)
-- Arabic (Limited proficiency)
+*Exceptionally fast learner*
+I am very good at taking on new projects, whether that be building a program or learning a whole new language. I am very methodical with planning which helps ensure that I almost always achieve my goals in the set amount of time. I am always eager to learn new skills and continue to grow my knowledge.
+
+*Thrive both in agile dynamic teams and on solo projects*
+I am highly adaptable to varying work environments, having worked effectively with varying team dynamics and work environments.
 
 ### Education
 
@@ -99,5 +97,5 @@ My other  work includes:
 
 ------
 
-[LinkedIn](https://uk.linkedin.com/in/munaadil)
-Email: mzam66@gmail.com
+> [LinkedIn](https://uk.linkedin.com/in/munaadil)
+> Email: mzam66@gmail.com
