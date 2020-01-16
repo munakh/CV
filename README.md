@@ -27,8 +27,8 @@ Projects | Skills | Education | Experience | Hobbies & Interests | LinkedIn | Bl
 
 **Technical**
 
-| Languages | Testing Frameworks | Styling | Other |
-| --------- | ------------------ | ------- | ----- |
+| Languages | Testing | Styling | Other |
+| --------- | ------- | ------- | ----- |
 | Ruby | RSpec | HTML | PostgreSQL |
 | Ruby on Rails | Capybara | Bootstrap | SQL |
 | JavaScript | Jasmine | CSS | jQuery |
