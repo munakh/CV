@@ -1,6 +1,4 @@
-<p align="center">
-## Muna Khan
-</p>
+<p align="center"> <h1> Muna Khan </h1> </p>
 
 <p align="center"> <a href="#Projects">Projects</a> | <a href="#Skills">Skills</a> | <a href="#Education">Education</a> | <a href="#Experience">Experience</a>| <a href="#Contact">Contact</a> </p>
 
