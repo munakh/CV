@@ -1,6 +1,6 @@
 <h1 align="center"> Muna Khan </h1>
 
-<p align="center"> <a href="#Projects">Projects</a> | <a href="#Skills">Skills</a> | <a href="#Education">Education</a> | <a href="#Experience">Experience</a>| <a href="#Contact">Contact</a> </p>
+<p align="center"> <a href="#Projects">Projects</a> | <a href="#Skills">Skills</a> | <a href="#Education">Education</a> | <a href="#Experience">Experience</a> | <a href="#Contact">Contact</a> </p>
 
 > I am an enthusiastic and ambitious Full Stack Junior Developer, looking for a role where I can improve on my current skill set as well as delve into newer technologies, while also gaining exposure to product management and marketing strategy.
 >
