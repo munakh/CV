@@ -14,8 +14,8 @@
 
 | Project | Description | Technologies |
 | ------- | ----------- | ------------ |
-| [AceBook](https://github.com/munakh/AceBook) | Facebook-inspired app created over 2 weeks | Ruby, Rails, RSpec/Capybara, CSS |
-| [PetGram](https://github.com/munakh/PetGram)  | A simple Instagram clone constructed solo over one weekend | Ruby, Rails, CSS |
+| [AceBook](https://github.com/munakh/AceBook) | Facebook-inspired app created over 2 weeks | Ruby, Rails, RSpec/Capybara, HTML, CSS |
+| [PetGram](https://github.com/munakh/PetGram)  | A simple Instagram clone constructed solo over one weekend | Ruby, Rails, HTML, CSS |
 | [RPi Security Sensor](https://github.com/munakh/RPI-Security-Sensor) | Security camera that sends image to a website and notification to user's phone when motion is detected | Python, Raspberry Pi, Rails |
 
 ### Skills
@@ -24,7 +24,7 @@
 
 **Technical**
 
-| Languages | Testing | Styling | Other |
+| Language/Framework | Testing | Styling | Other |
 | --------- | ------- | ------- | ----- |
 | Ruby | RSpec | HTML | PostgreSQL |
 | Ruby on Rails | Capybara | Bootstrap | SQL |
