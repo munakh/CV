@@ -16,6 +16,7 @@
 | ------- | ----------- | ------------ |
 | [AceBook](https://github.com/munakh/AceBook) | Facebook-inspired app created over 2 weeks | Ruby, Rails, RSpec/Capybara, HTML, CSS |
 | [PetGram](https://github.com/munakh/PetGram)  | A simple Instagram clone constructed solo over one weekend | Ruby, Rails, HTML, CSS |
+| [Grocery App](https://github.com/munakh/grocery_app) | Grocery app with currency conversion API in basket, completed in one day | Node.js, Express, hbs, JSON |
 | [RPi Security Sensor](https://github.com/munakh/RPI-Security-Sensor) | Security camera that sends image to a website and notification to user's phone when motion is detected | Python, Raspberry Pi, Rails |
 
 ### Skills
@@ -29,6 +30,7 @@
 | Ruby | RSpec | HTML | PostgreSQL |
 | Ruby on Rails | Capybara | Bootstrap | SQL |
 | JavaScript | Jasmine | CSS | jQuery |
+| Node.js | Mocha | hbs | Express |
 | Python | Unittest | React | Raspberry Pi |
 
 **Interpersonal**
